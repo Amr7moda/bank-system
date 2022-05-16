@@ -1,0 +1,26 @@
+.img{
+    max-width: 100%;
+    height: auto;
+}
+
+.bg{
+    background-color: #262626;
+}
+
+.white{
+    color: white !important;
+}
+
+.right{
+    margin: auto;
+    margin-right: 0px !important;
+}
+
+.background{
+    background-image: url(images/image-6.jpg);
+}
+
+.btn-outline-primary {
+    color: white;
+    border-color: white;
+}
